@@ -20,9 +20,10 @@ Aquivos importantes:
 
 > Preencha antes de começar (edite este bloco no seu fork), depois faça commit + push.
 
-- **Nome/ID da equipe:** `<preencha>`
+- **Nome/ID da equipe:** Grupo 4
 - **Integrantes:**
-  - `<nome — e-mail>`
-  - `<nome — e-mail>`
-  - `<nome — e-mail>`
-  - `<nome — e-mail>`
+  - Lucas Menghi - lucasmissiasmenghi@gmail.com
+  - Julia Vale - juliamcvale@gmail.com
+  - Antonio Menezes - antonio.menezes@asn.rocks
+  - André Júlio Ferreira - eng.andre.julio@gmail.com
+  - Thamirys Santos
